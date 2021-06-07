@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Jay Sampath 👋
 
 <!--
 **jaysampath/jaysampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+  
+  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
+  
+  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
+  
+  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
+  
+  
+
+</ul>
