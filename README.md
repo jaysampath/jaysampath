@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysampath)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysampath&layout=compact)
+
 
 
