@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 style="text-align:center; "> Software Engineer | Web / Android Developer | Cloud Enthusisast </h3>
+
 <ul>
   
   <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
