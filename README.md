@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 <ul>
   
-  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
+  <li> <p> All of my projects are available here at <a href="https://github.com/jaysampath?tab=repositories" >Github </a>  </p> </li> 
   
-  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
-  
-  <li> <p> All of my projects are available here at <a href="" >Github </a>  </p> </li> 
+
   
   
 
