@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   <li> <p> All of my projects are available here at <a href="https://github.com/jaysampath?tab=repositories" >Github </a>  </p> </li> 
   
-  <li> <p> Have a look at my <a href="https://jaysampath.github.io/" target="_blank" >personal website </a>  </p> </li> 
+  <li> <p> Have a look at my <a href="https://sampath-portfolio.vercel.app/" target="_blank" >personal website </a>  </p> </li> 
   
   <li> <p> Reach me through <a href="https://www.linkedin.com/in/jay-sampath-5395b7187/" >LinkedIn </a> or <a href="mailto:jayasampath111@gmail.com" >Gmail </a> or <a href="https://twitter.com/JaySampath1" >Twitter </a>  </p> </li> 
 
