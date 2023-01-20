@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! 👋  </h1>
+<h1 align="center"> Hello, World! 👋 Thanks for visting 🙋‍♂️  </h1>
 
 <!--
 **jaysampath/jaysampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysampath&layout=compact&hide=Matlab,cpp)
 
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/jaysampath/count.svg" />
+</p>
 
 
 
