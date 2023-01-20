@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Jay Sampath 👋 </h1>
+<h1 align="center"> Hello, World! 👋  </h1>
 
 <!--
 **jaysampath/jaysampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> Software Engineer | Full Stack Web Developer | Cloud Enthusisast </h3>
 
 <ul>
   
