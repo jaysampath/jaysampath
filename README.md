@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-<ul>
-  
-  <li> <p> My <a href="https://sampath-portfolio.vercel.app/" target="_blank" > Portfolio </a>  </p> </li> 
 
-</ul>
+ <p> I'm Jaya Sampath - I'm a full stack developer. I'm interested in development, automating workflows and open source contribution. I work on random projects
+  in my free time.</p> 
+  <p>  My <a href="https://sampath-portfolio.vercel.app/" target="_blank" > Portfolio </a> </p>
+
+
 
 |Connect With Me|
 |-----|
