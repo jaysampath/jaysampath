@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 |-----|
 |<a href="https://twitter.com/JaySampath1"><img align="left" alt=" Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/jay_sampath_"><img align="left" alt="s Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a><a href="https://www.linkedin.com/in/jaya-sampath-kolisetty"><img align="left" alt=" LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a></a><a href="mailto:jayasampath111@gmail.com"><img align="left" alt=" Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
 
-### My Github Statistics
+<details>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jaysampath&theme=highcontrast&show_icons=true&count_private=true)
+<summary>Github Stats ⚡</summary>
 
-
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysampath&layout=compact&hide=Matlab,cpp)
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jaysampath&theme=highcontrast&show_icons=true&count_private=true)</a>
+<a href="#">![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysampath&layout=compact&hide=Matlab,cpp)</a>
 
 <p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/jaysampath/count.svg" />
 </p>
 
+ </details>
 
 
