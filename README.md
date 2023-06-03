@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
- <p> I'm Jaya Sampath - I'm a full stack developer. I'm interested in development, automating workflows and open source contribution. I work on random projects
+ <p> I'm Jaya Sampath - I'm a full stack developer. I'm interested in development, automating workflows and open source contributions. I work on random projects
   in my free time.</p> 
   <p>  My <a href="https://sampath-portfolio.vercel.app/" target="_blank" > Portfolio </a> </p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,docker,kubernetes,aws,mongodb,mysql,oracle,kafka)](https://skillicons.dev)
 
 |Connect With Me|
 |-----|
