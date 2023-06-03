@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! 👋 Thanks for visting 🙋‍♂️  </h1>
+<h1 align="center"> Hey There! 👋 Thanks for visting 🙋‍♂️  </h1>
 
 <!--
 **jaysampath/jaysampath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
